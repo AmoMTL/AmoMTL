@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @AmoMTL
-- 👀 I’m interested in ML and DL
-- 🌱 I’m currently learning DL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me amogha.subramanya@mail.mcgill.ca
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+AI Engineer building AI agents 👷🏽
+
+Email: amogha.subramanya@mail.mcgill.ca
 
 <!---
 AmoMTL/AmoMTL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
